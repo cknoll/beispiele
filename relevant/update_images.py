@@ -13,6 +13,8 @@ fnames ="""\
 /home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/taxo_flachheit_steuerbarkeit.pdf
 /home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/taxo_flachheit_unklarheit.pdf
 /home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/manipulator_def2.pdf
+/home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/acrobot_def.pdf
+/home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/doppelpendel_akt_aufh_def.pdf
 /home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/unicycle.pdf\
 """.split("\n")
 
