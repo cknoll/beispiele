@@ -15,6 +15,8 @@ fnames ="""\
 /home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/manipulator_def2.pdf
 /home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/acrobot_def.pdf
 /home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/doppelpendel_akt_aufh_def.pdf
+/home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/planar_verschieb_pendel_akt_masse_pendel.pdf
+/home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/pendel_wagen.pdf
 /home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/unicycle.pdf\
 """.split("\n")
 
