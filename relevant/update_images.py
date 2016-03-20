@@ -21,6 +21,7 @@ fnames ="""\
 /home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/wagen_feder_wagen_feder_wagen.pdf
 /home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/pvtol.pdf
 /home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/pvtol_b.pdf
+/home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/wagen_rutschende_last.pdf
 /home/ck/workstickdir/latex/verwaltet/100_Diss/bilder/unicycle.pdf\
 """.split("\n")
 

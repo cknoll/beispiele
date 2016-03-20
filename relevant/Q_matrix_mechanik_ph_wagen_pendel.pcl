@@ -1,7 +1,7 @@
 ccopy_reg
 _reconstructor
 p0
-(csymb_tools
+(csymbtools
 Container
 p1
 c__builtin__
@@ -524,7 +524,7 @@ I1
 sbsS'data'
 p222
 g0
-(crst_symbtools.symb_tools
+(crst_symbtools.symbtools
 Container
 p223
 g2
