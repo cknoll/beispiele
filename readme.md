@@ -5,24 +5,25 @@ Dieses Repositorium enthält Beispielrechnungen als Ergänzung zur Dissertation 
 Die Beispielrechnungen sind als IPython-Notebook in der Programmiersprache `Python` (Version 2.7.x)
 implementiert und haben folgende Abhängigkeiten:
 
+
 * Wissenschaftliche Standardpakete
   * numpy, scipy, sympy, matplotlib
   * Am besten über einen Paket-Manager zu installieren
  
 * [`symbtools`](https://github.com/cknoll/rst_symbtools) 
-  * `core`-Modul: Grundlegende Funktionalität zum symbolischen Rechnen in der Regelungtheorie
+  * `core`-Modul: Grundlegende Funktionalität zum symbolischen Rechnen in der Regelungstheorie
     * Lie-Ableitungen, Rangprüfung, Zeitableitung von Symbolen, ...
   * `modeltools`-Modul
-    * Aufstellen der Bewegungsgleichungen eines mechandischen Systems und Transformation
+    * Aufstellen der Bewegungsgleichungen eines mechanischen Systems und Transformation
     in verschiedene Darstellungen
   * `noncommutativetools`
     * Funktionalität zum Rechnen mit Polynommatrizen über Schiefpolynomen,
-    z.B. Rechtsverschiebung des Operators d/dt, Ansatzbasierte bestimmung einer
+    z.B. Rechtsverschiebung des Operators d/dt, Ansatzbasierte Bestimmung einer
     unimodularen Inversen
    
 
 * [`pycartan`](https://github.com/cknoll/pycartan)
-  * Funktionalität zum Rechnenen mit Differentialformen, die auf geeigneten Jet-Büdneln definiert sind.
+  * Funktionalität zum Rechnen mit Differentialformen, die auf geeigneten Jet-Bündeln definiert sind.
 
   
 
